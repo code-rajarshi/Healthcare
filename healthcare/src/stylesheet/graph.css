@@ -1,0 +1,81 @@
+.activity-container {
+  background: #f4f6fb;
+  border-radius: 20px;
+  padding: 20px;
+  /* width: 100%;
+  max-width: 700px; */
+  height: 11vh;
+  width: 35vw;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+  position: relative;
+  bottom: 15px;
+}
+
+.title {
+  /* font-size: 1.2rem; */
+  font-size: 15px;
+  font-weight: 600;
+  color: #2b2e4a;}
+
+
+.subtitle {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+.chart {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.bars {
+  display: flex;
+  gap: 6px;
+  align-items: flex-end;
+  height: 50px;
+  margin-bottom: 5px;
+}
+
+.bar {
+  width: 3px;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+
+.cyan {
+  background-color: #00e4ff;
+}
+
+.blue {
+  background-color: #5c6bc0;
+}
+
+.gray {
+  background-color: #d3d3d3;
+}
+.last{
+    background-color: #5c6bc0;
+}
+
+.day-label {
+  font-size: 10px;
+  color: #555;
+  position: relative;
+  bottom: 5px;
+}

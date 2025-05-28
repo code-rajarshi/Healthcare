@@ -1,0 +1,66 @@
+.schedule {
+  display: flex;
+  justify-content: space-around;
+  background: inherit;
+  padding-top: 20px;
+  font-family: 'Arial', sans-serif;
+  height: 150px;
+  width: 450px;
+  
+}
+
+.day-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* padding: 10px; */
+  /* min-width: 80px; */
+  color: rgb(3, 3, 57);
+  /* transition: background 0.3s; */
+  font-size: 12px;
+  font-weight: 600;
+}
+.day-date{
+    font-size: 20px;
+    font-weight: 500;
+}
+.day-header {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.day {
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 11px;
+}
+
+.date {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.time-slot {
+  margin: 5px 0;
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: #333;
+  background-color: transparent;
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.highlight {
+  background-color: #aebdfc;
+  color: white;
+  font-weight: bold;
+}
+
+.selected {
+  background-color: #eaf0ff;
+  border-radius: 20px;
+}
+
+.disabled {
+  color: #c0c0c0;
+}

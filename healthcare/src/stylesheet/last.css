@@ -1,0 +1,305 @@
+.mainL{
+   
+     background-color: rgba(148, 206, 251, 0.116);
+    height: 95vh;
+    width: 38vw;
+    align-content: first baseline;
+    position: relative;
+    top: 10px;
+   
+    right: 5px;
+    border-radius: 0px 30px 30px 0px;   
+    align-items: center;
+    justify-items: center;
+    overflow: hidden;
+   
+}
+.ldiv1{
+    background-color: none;
+    height: 40px;
+    width: 35vw;
+     display: flex;
+    justify-content: end;
+}
+.ldiv1sub{
+    height: 30px;
+    width: 80px;
+    background-color: none;
+    position: relative;
+   top: 10px;
+   display: flex;
+   gap: 10px;
+}
+.ldiv2{
+     background-color: none;
+    height: 20px;
+    width: 35vw;
+     display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 10px;
+    font-size: 13px;
+    color: rgb(5, 5, 82);
+    font-weight: 600;
+}
+.ldiv2sub2{
+    height: 20px;
+    width: 50px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 5px;
+}
+.ldiv4{
+    background-color: none;
+    height: 100px;
+    width: 33vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ldiv4sub1{
+    background-color: rgb(6, 6, 144);
+    height: 80px;
+    width: 150px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+}
+.time1{
+    font-size: 10px;
+    font-weight: 500;
+    padding-left: 10px;
+    height: 15px;
+}
+.time2{
+    font-size: 10px;
+    font-weight: 500;
+    padding-left: 10px;
+    height: 15px;
+    
+}
+
+.drname1{
+    font-size: 10px;
+    padding-left: 10px;
+    height: 15px;
+    position: relative;
+    bottom: 10px;
+    font-weight: 500;
+}
+.drname2{
+    font-size: 10px;
+    padding-left: 10px;
+    font-weight: 500;
+    height: 15px;
+    position: relative;
+    bottom: 12px;
+}
+
+.ldiv4sub2{
+    background-color: rgba(82, 170, 253, 0.384);
+    height: 80px;
+    width: 250px;
+    border-radius: 20px;
+    color: black;
+}
+.dentist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    height: 10px;
+}
+.physiotherapy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    height: 10px;
+}
+.ldiv7{
+    background-color: none;
+    height: 70px;
+    width: 32vw;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(7, 7, 115);
+}
+.ldiv7sub1{
+    background-color: rgba(127, 191, 255, 0.16);
+    height: 70px;
+    width: 230px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.ldiv7sub2{
+    background-color: rgba(127, 191, 255, 0.16);
+    height: 70px;
+    width: 160px;
+    border-radius: 20px;
+}
+.ldiv711 {
+    font-size: 12px;
+    font-weight: 500;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.ldiv714 {
+    font-size: 12px;
+    font-weight: 500;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.ldiv7sub1sub{
+    font-size: 13px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+.ldiv7sub2sub{
+    font-size: 13px;
+    font-weight: 600;
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+.ldiv5{
+    height: 20px;
+    width: 33vw;
+    background-color: none;
+    align-items: center;
+    color: rgb(28, 2, 61);
+    font-size: 13px;
+}
+.ldiv6, .ldiv8{
+    font-size: 15px;
+    height: 20px;
+    width: 33vw;
+    background-color: none;
+    color:  gray;
+    font-weight: 500;
+
+}
+.ldiv9{
+    background-color: none;
+    height: 70px;
+    width: 32vw;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(7, 7, 115);
+}
+.ldiv9sub1{
+    background-color: rgba(127, 191, 255, 0.16);
+    height: 70px;
+    width: 180px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.ldiv9sub2{
+    background-color: rgba(127, 191, 255, 0.16);
+    height: 70px;
+    width: 210px;
+    border-radius: 20px;
+}
+.ldiv911 {
+    font-size: 12px;
+    font-weight: 500;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.ldiv914 {
+    font-size: 12px;
+    font-weight: 500;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.ldiv9sub1sub{
+    font-size: 13px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+.ldiv9sub2sub{
+    font-size: 13px;
+    font-weight: 600;
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+.ldiv4 {
+    position: relative;
+    bottom: 13px;
+}
+    
+.ldiv5,.ldiv6,.ldiv7,.ldiv8,.ldiv9{
+    position: relative;
+    bottom: 35px;
+}
+.ldiv3{
+    height: 170px;
+}
+.ldiv31{
+    height: 150px;
+    width: 60px;
+    border-radius: 15px;
+    background-color: rgba(91, 175, 244, 0.105);
+    position: relative;
+    bottom: 160px;
+    left: 70px;
+}
+.ldiv32{
+    height: 20px;
+    width: 50px;
+    border-radius: 5px;
+    background-color: rgb(20, 4, 239);
+    position: relative;
+    bottom: 230px;
+    left: 75px;
+    font-size: 11px;
+    color: white;
+    font-weight: 400;
+    align-items: center;
+    text-align: center;
+}
+.ldiv33{
+   height: 20px;
+    width: 50px;
+    border-radius: 5px;
+    background-color: rgba(50, 51, 52, 0.235);
+    position: relative;
+    bottom: 250px;
+    left: 200px;
+}
+.ldiv34{
+   height: 20px;
+    width: 110px;
+    border-radius: 5px;
+    background-color: rgba(50, 51, 52, 0.235);
+    position: relative;
+    bottom: 305px;
+    left: 330px;
+}

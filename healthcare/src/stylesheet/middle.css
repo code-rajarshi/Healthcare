@@ -1,0 +1,206 @@
+.mainM{
+    background-color: white;
+    height: 98vh;
+    width: 40vw;
+     align-content: baseline;
+     align-items: center;
+     display: flex;
+     flex-direction: column;
+    
+}
+.mmdiv1{
+    display: flex;
+}
+.searchbar1 input{
+     height: 30px;
+     width: 35vw;
+    padding-left: 30px;
+    border-radius: 10px;
+    border: 2px solid rgba(96, 209, 240, 0.473);
+}
+/* .searchbar1 input::placeholder{
+    
+} */
+ .icon1{
+position: relative;
+left: 25px;
+top: 7px;
+ }
+ .icon2{
+    position: relative;
+    top: 7px;
+    right: 25px;
+ }
+ .mmdiv2{
+    background-color: initial;
+    height: 30px;
+     width: 38vw;
+     display: flex;
+     justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    text-align: baseline;
+    padding-top: 20px;
+ }
+ .mmheading1 h2{
+    text-align: center;
+    color: rgb(42, 2, 87);
+ }
+ .mmoptions1 select{
+    border: none;
+    font-size: 11px;
+    background-color: initial;
+    font-weight: bold;
+    color:rgb(46, 3, 94) ;
+ }
+.mmdiv3{
+    background-color: initial;
+    width: 38vw;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.mmdiv3sub{
+    background-color:rgba(130, 215, 248, 0.114);
+    height: 50vh;
+    width: 17vw;
+    border-radius: 15px;
+    position: relative;
+    left: 10px;
+}
+.img1{
+    position: relative;
+    top: 20px;
+    right: 18px;
+}
+.mmdiv3sub1{
+    display: flex;
+    background-color: aqua;
+   height: 25px;
+   width: 100px;
+   border-radius: 8px;
+   align-items: center;
+   padding-left: 10px;
+   color: rgb(19, 19, 112);
+   font-size: 11px;
+   position: relative;
+   bottom: 70px;
+   right: 25px;
+}
+
+.mmdiv3subicon2{
+    position: relative;
+    left: 30px;
+}
+
+.mmdiv3sub2{
+    background-color: initial;
+     height: 25px;
+   width: 130px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   position: relative;
+   bottom: 200px;
+   left: 100px;
+}
+.mmdiv3sub2text{
+    background-color: rgb(15, 15, 145);
+    color: white;
+    font-size: 11px;
+    display: flex;
+    height: 25px;
+    width: 90px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+
+.mmdiv32ndsub{
+    background-color: initial;
+    height: 50vh;
+    width: 14vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    left: 10px;
+}
+.lungs{
+    background-color: rgba(130, 215, 248, 0.112);
+    height: 15vh;
+    width: 12vw;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.lungsimg{
+    display: flex;
+  background-color:initial;
+  align-items: center;
+  padding-left: 10px;
+}
+.lungsimg p{
+    padding-left: 8px;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgb(8, 8, 80);
+}
+.dateformmdiv3 p{
+    font-size: 10px;
+    color: gray;
+    
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+}
+.cpm{
+    height: 5px;
+    width: 100px;
+    background-color: gray;
+    position: relative;
+    left: 13px;
+    bottom: 15px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.cpm1{
+    height: 5px;
+    width: 75px;
+    background-color: rgb(151, 5, 5);
+    border-radius: 10px;
+}
+.cpm2{
+    height: 5px;
+    width: 75px;
+    background-color: rgb(3, 176, 156);
+     border-radius: 10px;
+}
+.cpm3{
+    height: 5px;
+    width: 75px;
+    background-color: rgb(253, 116, 4);
+     border-radius: 10px;
+}
+
+.mmdiv4{
+    height: 30px;
+    background-color:initial;
+    width: 36vw;
+    align-items: center;
+
+}
+.mmdiv4corner{
+    position: relative;
+    left: 380px;
+    top: 5px;
+}
+.mmdiv4corner button{
+    border: none;
+    border-radius: 5px;
+    background-color:rgba(130, 215, 248, 0.112) ;
+    color: rgb(80, 79, 79);
+    height: 20px;
+}

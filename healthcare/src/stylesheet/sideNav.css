@@ -1,0 +1,95 @@
+.main{
+    background-color: rgba(130, 215, 248, 0.11);
+    height: 95vh;
+    width: 17vw;
+    align-content: first baseline;
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+    border-radius: 30px 0px 0px 30px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   text-align: center;
+   overflow: hidden;
+   
+}
+
+ .mLogo{
+    display: flex;
+    /* padding: 50px 50px 10px 50px ; */
+    background-color:none;
+    padding-left: 50px;
+    height: 15vh;
+    position: relative;
+    top: 30px;
+   
+ }
+.h span{
+    color: rgb(4, 208, 253);
+    font-weight: bolder;
+    font-size: 25px;
+}
+.hh span{
+color: rgb(45, 3, 100);
+    font-weight: bolder;
+    font-size: 25px;
+}
+.general{
+    /* justify-content: center; */
+    /* display: block; */
+    width: 13vw;
+    height: 35vh;
+    background-color: initial;
+    text-align: left;
+    padding-left: 48px;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.tools{
+     /* justify-content: center;
+    display: block; */
+    width: 13vw;
+    height: 45vh;
+    background-color: initial;
+    text-align: left;
+    padding-left: 48px;
+    font-size: 14px;
+
+     display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.t1 p{
+    font-size: 13px;
+    color: gray;
+}
+.t7 p{
+    color: gray;
+}
+.t2text{
+    color: rgb(21, 8, 76);
+    
+}
+.t1,.t2,.t3,.t4,.t5,.t6,.t7,.t8,.t9,.t10{
+    height: 20px;
+    width: 130px;
+    background-color: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.t2text,.t3text,.t4text,.t5text,.t6text,.t8text,.t9text,.t10text{
+    width: 100px;
+}
+.t3text,.t4text,.t5text,.t6text,.t8text,.t9text,.t10text{
+    color: gray;
+}
+.t10{
+    height: 150px;
+    position: relative;
+    top: 50px;
+}
